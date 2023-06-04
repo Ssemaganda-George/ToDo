@@ -1,9 +1,9 @@
-# GROUP TWO TO-DO APP
-### ⚡ WHAT IS A TODO APP ?
+# TO-DO APP
+###  WHAT IS A TODO APP ?
 A to-do app is a digital tool that helps you organize and manage your tasks, projects. It allows you to create and prioritize a list of things you need to do, set reminders, and track your progress. You can also use a to-do app to assign tasks to others, share lists, and collaborate with team members. Overall, a to-do app is a helpful tool for individuals' and teams to stay organized,keep activity track and be productive in the end.
 
 
-### ⚡ PROJECT SUMMARY _ OUR UNDERSTANDING
+### PROJECT SUMMARY _ OUR UNDERSTANDING
 
 Based on the given requirements, the project developed a to-do application using the Django framework for the back-end and JavaScript, HTML, and CSS for the front-end. The application allows users to create and manage daily or weekly lists of tasks, mark tasks as completed or skipped, and set reminders for specific tasks via email notifications. The application also allowed users to delete tasks and automatically removed tasks older than seven days.
 
