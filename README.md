@@ -5,7 +5,7 @@ A to-do app is a digital tool that helps you organize and manage your tasks, pro
 
 ### PROJECT SUMMARY _ OUR UNDERSTANDING
 
-Based on the given requirements, the project developed a to-do application using the Django framework for the back-end and JavaScript, HTML, and CSS for the front-end. The application allows users to create and manage daily or weekly lists of tasks, mark tasks as completed or skipped, and set reminders for specific tasks via email notifications. The application also allowed users to delete tasks and automatically removed tasks older than seven days.
+Based on the given requirements, the project developed a TO-Do application using the Django framework for the back-end and JavaScript, HTML, and CSS for the front-end. The application allows users to create and manage daily or weekly lists of tasks, mark tasks as completed or skipped, and set reminders for specific tasks via email notifications. The application also allowed users to delete tasks and automatically removed tasks older than seven days.
 
 In terms of user stories, the project was broken down into several stories including user account creation, task creation and management, task completion and skipping, task reminders, task deletion, and task auto-removal. Each story was further broken down into implementation tasks such as creating database models, building user interfaces, implementing email notifications, and configuring deployment settings.
 
