@@ -15,3 +15,4 @@ The development process was divided into sprints, each lasting approximately one
 
 Overall, the project aimed to deliver a user-friendly and functional to-do application that met the given requirements and adhered to best practices for software development.
 
+
