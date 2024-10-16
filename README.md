@@ -14,5 +14,3 @@ To implement this project, an agile software development framework such as Extre
 The development process was divided into sprints, each lasting approximately one to two weeks, with each sprint focusing on delivering a set of user stories. The project plan was updated after each sprint to reflect progress made, issues encountered, and any changes to the scope or timeline.
 
 Overall, the project aimed to deliver a user-friendly and functional to-do application that met the given requirements and adhered to best practices for software development.
-
-
